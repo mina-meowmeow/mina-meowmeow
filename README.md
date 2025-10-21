@@ -56,5 +56,3 @@ Here’s what I usually reach for when that happens:
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
 <a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/></a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mina-meowmeow&show_icons=true&locale=en&layout=compact" alt="mina-meowmeow" /></p>
