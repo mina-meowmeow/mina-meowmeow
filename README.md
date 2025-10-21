@@ -3,6 +3,8 @@
 
 - 🔭 i’m currently working on **my infosys paper in AI and marketing** (just submitted my HRI paper hehehehe)
 
+- 🤑 i'm doing CFA 1, with exam date in May
+
 - 👨‍💻 i interned at **NFCU as a Data Quality Analyst (pretty cool)**
 
 - 👯 i’m looking to collaborate on **any kind data project, text me and we will cook** 
