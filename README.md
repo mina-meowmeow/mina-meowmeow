@@ -1,5 +1,5 @@
 <h1 align="center">hi 👋, i'm minh-ha</h1>
-<h3 align="center">aspiring data analyst</h3>
+<h3 align="center">aspiring data analyst 🧠</h3>
 
 - 🔭 i’m currently working on **my infosys paper in AI and marketing** (just submitted my HRI paper hehehehe)
 
@@ -13,12 +13,12 @@
 
 - ⚡ if you read all the way down here already **h-i-r-e-m-e-p-l-s**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/minh-ha-pham3006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minh-ha-pham3006" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🧠 Tools I Actually Use (promise not a skill dump)</h3>
+<h2 align="left"> Tools I Actually Use (promise not a skill dump)</h2>
 
 <p align="left">
 I like designing the data, or data-ing the design — cleaning, modeling, and visualizing until the numbers start telling stories.  
