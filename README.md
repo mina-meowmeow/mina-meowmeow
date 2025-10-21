@@ -11,13 +11,16 @@
 
 - 📫 reach me at **phamminhha3006@gmail.com**
 
-- 📄 know about my experiences [https://drive.google.com/file/d/14Olygojkkr2PAX79KaO0JHLOouSb8K53/view?usp=sharing](https://drive.google.com/file/d/14Olygojkkr2PAX79KaO0JHLOouSb8K53/view?usp=sharing)
+- 📄 know about my experiences [Resume](https://drive.google.com/file/d/14Olygojkkr2PAX79KaO0JHLOouSb8K53/view?usp=sharing)
 
 - ⚡ if you read all the way down here already **h-i-r-e-m-e-p-l-s**
 
-<h2 align="left">Connect with me:</h2>
+<h2 align="left">📫 Connect with Me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/minh-ha-pham3006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minh-ha-pham3006" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/minh-ha-pham3006" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/mina-meowmeow" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:phamminhha3006@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://drive.google.com/file/d/14Olygojkkr2PAX79KaO0JHLOouSb8K53/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/></a>
 </p>
 
 <h2 align="left"> Tools I Actually Use (promise not a skill dump)</h2>
